@@ -36,4 +36,6 @@
 
     <!-- shadowColor for widget text -->
     <color name="widget_shadow_color">#67000000</color>
+	
+    <color name="blue_grey_100">#ffcfd8dc</color>
 </resources>
